@@ -1,0 +1,3 @@
+#!d:\python\3d render\venv\scripts\python.exe
+from numba.pycc import main
+main()
